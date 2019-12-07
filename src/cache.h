@@ -11,6 +11,9 @@
 
 #include <stdint.h>
 #include <stdlib.h>
+#include <math.h>
+#include <time.h>
+#include <stdio.h>
 
 //
 // Student Information
